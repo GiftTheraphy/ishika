@@ -1,0 +1,24 @@
+<section id="products">
+    <h2>Our Products</h2>
+    <div class="product-grid">
+        <div class="product">
+            <h3>Hamper 1</h3>
+            <img src="images/hamper1.jpg" alt="Hamper 1">
+            <p>Description of Hamper 1</p>
+            <p>Price: $50</p>
+        </div>
+        <div class="product">
+            <h3>Hamper 2</h3>
+            <img src="images/hamper2.jpg" alt="Hamper 2">
+            <p>Description of Hamper 2</p>
+            <p>Price: $60</p>
+        </div>
+        <div class="product">
+            <h3>Hamper 3</h3>
+            <img src="images/hamper3.jpg" alt="Hamper 3">
+            <p>Description of Hamper 3</p>
+            <p>Price: $70</p>
+        </div>
+        <!-- Add more products as needed -->
+    </div>
+</section>
